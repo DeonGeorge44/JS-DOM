@@ -30,7 +30,7 @@
 // );
 
 // Previous Element Sibling
-let fourthLi = document.querySelector(".fourth");
-console.log(fourthLi);
-console.log(fourthLi.previousElementSibling.textContent);
-console.log(fourthLi.previousElementSibling.previousElementSibling.textContent);
+// let fourthLi = document.querySelector(".fourth");
+// console.log(fourthLi);
+// console.log(fourthLi.previousElementSibling.textContent);
+// console.log(fourthLi.previousElementSibling.previousElementSibling.textContent);
